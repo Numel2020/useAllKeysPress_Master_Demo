@@ -1,8 +1,6 @@
 # useAllKeysPress Master Demo
-Created with CodeSandbox
-
-## Configuration
 This file is the configuration guide in creating the `useAllKeysPress` demos, these examples are:
+
  ### 1. [Single key ](https://codesandbox.io/s/single-key-usage-bmfxi)
  ### 2. [Key on focused element](https://codesandbox.io/s/key-on-focused-element-c1gpb)
  ### 3. [Multiple keys](https://codesandbox.io/s/multiple-keys-jhfdn)
